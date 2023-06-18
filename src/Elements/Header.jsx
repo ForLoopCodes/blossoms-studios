@@ -14,7 +14,7 @@ export default function Header() {
           <a href="/about">About</a>
         </li>
         <li>
-          <a href="/mods">Mods</a>
+          <a href="/products">Products</a>
         </li>
       </ul>
     </nav>
